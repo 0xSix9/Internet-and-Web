@@ -10,7 +10,7 @@ The Internet is a platform through which different computers around the world ca
 
 # How can I use the Web?
 
-![client-server-network-1024x653-1.webp](client-server-network-1024x653-1.webp)
+![client-server-network](https://github.com/0xSix9/Internet-and-Web/blob/main/img/2.jpg?raw=true)
 
 **Client**: As a user, you can connect to the Internet from any device, such as a desktop computer, laptop, or even a smartphone.
 
