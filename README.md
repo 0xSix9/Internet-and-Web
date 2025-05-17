@@ -48,7 +48,7 @@ The Internet is a platform through which different computers around the world ca
 
 A domain name is the address that users type into their browser to access your website. This address is a unique name that is linked to a specific IP address. An IP address is a numeric address that every device connected to the Internet has and is used to identify that device on the World Wide Web.
 
-![Domain]([The-figure-shows-a-simple-URL-example-breakdown-which-includes-the-protocol-subdomain.png](https://github.com/0xSix9/Internet-and-Web/blob/main/img/Domain.png?raw=true)
+![Domain](https://github.com/0xSix9/Internet-and-Web/blob/main/img/Domain.png?raw=true)
 
 # Components of a Domain
 
